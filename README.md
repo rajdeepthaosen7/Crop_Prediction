@@ -9,7 +9,7 @@ Data:
 The data used in this project includes historical rice yield records from various districts. The primary dataset includes the following:
 
 Districts: Kamrup, Nagaon, Marigaon, Jorhat, Bongaigaon, Darrang, Villupuram, and Udaipur.
-Time Period: 1999 to 2018
+Time Period: 1997 to 2019
 Features: Year, Yield (Tonnes/Hectare)
 Model
 The model used for this project is an LSTM (Long Short-Term Memory) neural network, which is well-suited for time series forecasting. The model architecture includes:
