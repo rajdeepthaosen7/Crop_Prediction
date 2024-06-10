@@ -1,11 +1,11 @@
 Data source: Area and Production Statistics, Ministry of Agriculture and Farmers welfare.
 Link for data set: https://aps.dac.gov.in/APY/Public_Report1.aspx
 
-Rice Yield Prediction using LSTM
-Overview
+Rice Yield Prediction using LSTM.
+Overview:
 This project aims to predict rice yields in various districts using Long Short-Term Memory (LSTM) neural networks. The project involves data collection, preprocessing, model training, evaluation, and visualization of results. The model is trained on historical rice yield data and then applied to forecast future yields, aiding in better agricultural planning and decision-making.
 
-Data
+Data:
 The data used in this project includes historical rice yield records from various districts. The primary dataset includes the following:
 
 Districts: Kamrup, Nagaon, Marigaon, Jorhat, Bongaigaon, Darrang, Villupuram, and Udaipur.
